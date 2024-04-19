@@ -1,6 +1,6 @@
 # Hi, I'm Bhumika <img src="Assets/Hi.gif" width="29px">  👩🏻‍💻
 
-I am a software engineer who is passionate about making open-source contributions more accessible, creating technology to elevate people, and building community.
+I'm a software engineer who is passionate about making open-source contributions more accessible, creating technology to elevate people, and building community.
 Some technologies I enjoy working with include Angular, SpringBoot, Java, Python and many more.
 
 
