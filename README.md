@@ -4,13 +4,13 @@
 Some technologies I enjoy working with include Angular, SpringBoot, Java, Python and many more.</p>
 <img align="left" width="200" height="250" src="octobhumika/octacat.gif?raw=true">
 
-<h3 align="center">Find me around the web <img src="Assets/earth.gif" width="29px"> :</h3>
+<h3 align="center">Find me around the web 🌎:</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bhumika/" target="blank">
     <img src="Assets/linkedin.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="krbhumika99@gmail.com" target="blank">
+  <a href="mailto:krbhumika99@gmail.com" target="blank">
     <img src="Assets/gmail.svg" alt="Gmail" height="30" width="40" />
   </a>
 </p>
