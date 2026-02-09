@@ -7,9 +7,6 @@
   <a href="https://www.linkedin.com/in/bhumika/" target="blank">
     <img src="Assets/linkedin.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="mailto:krbhumika99@gmail.com" target="blank">
-    <img src="Assets/gmail.svg" alt="Gmail" height="30" width="40" />
-  </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" margin-right: 15px;>
